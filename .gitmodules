@@ -1,0 +1,6 @@
+[submodule "Day001-UserStorage/lib/forge-std"]
+	path = Day001-UserStorage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Day002-QuoteVault/lib/forge-std"]
+	path = Day002-QuoteVault/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
