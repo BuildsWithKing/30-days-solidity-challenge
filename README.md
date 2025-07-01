@@ -1,39 +1,16 @@
 # 🔥 30 Days Solidity Challenge
 
-## One Smart Contract Every Day – From Zero to Smart Contract Hero
+### 🚀 One Smart Contract Every Day – From Zero to Smart Contract Hero
 
-## This repository contains my daily smart contract projects as part of a 30-day Solidity coding challenge. The goal is to master core Solidity concepts—including structs, mappings, modifiers, custom errors, access control, and more—by building real smart contracts from scratch every single day.
+This repository contains my daily smart contract projects as part of a *30-day Solidity coding challenge*.  
+The goal is to *master core Solidity concepts* — including structs, mappings, modifiers, custom errors, access control, and more — by building real smart contracts from scratch *every single day*.
 
 ---
-Each folder represents a new day, a new challenge, and a new learning milestone. 💪
+
+### 📂 Folder Structure
+
+Each folder represents a new day, a new challenge, and a new learning milestone. 💪  
 Follow along as I grow into a solid Web3 backend (smart contract) developer.
-
----
-
-📦 What You'll Find Inside:
-💡 Beginner-friendly smart contracts
-
-✅ Daily commits showing consistent learning
-
-✍ Clear comments and clean formatting
-
-📚 README files explaining each project
-
----
-
-## 🔧 Tools Used:
-
-Solidity ^0.8.x
-
-Remix IDE & VS Code
-
-Git + GitHub (SSH)
-
-Foundry (later phases)
-
----
-
-## 📅 Daily Breakdown Example:
 
 Day001-UserStorage/
 ├── UserStorage.sol
@@ -42,7 +19,39 @@ Day001-UserStorage/
 Day002-QuoteVault/
 ├── QuoteVault.sol
 └── README.md
+
 ---
 
-🛠 Why This Matters:
-This challenge is more than just code. It's about consistency, self-discipline, and proving that mastery comes from daily effort.
+### 📦 What You’ll Find Inside
+
+- 💡 Beginner-friendly smart contracts
+- ✅ Daily commits showing consistent learning
+- ✍ Clean code with comments explaining logic
+- 📚 Project-specific READMEs for every contract
+
+---
+
+### 🛠 Tools Used
+
+- Solidity ^0.8.x
+- Remix IDE & VS Code
+- Git + GitHub (SSH)
+- Foundry (coming soon)
+
+---
+
+### 🧠 Why This Matters
+
+This challenge is about more than just code.  
+It’s about *consistency, **self-discipline, and proving that **mastery comes from daily effort*.
+
+I’m not just building smart contracts —  
+I’m building a future I believe in. ⚡
+
+---
+
+### 💬 Want to Follow My Journey?
+
+[Twitter/X handle] – https://x.com/BuildsWithKing.com  | @BuildsWithKing
+
+Let’s connect and grow in public!
