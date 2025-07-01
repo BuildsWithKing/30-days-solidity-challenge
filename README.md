@@ -52,6 +52,6 @@ I’m building a future I believe in. ⚡
 
 ### 💬 Want to Follow My Journey?
 
-[Twitter/X handle] – https://x.com/BuildsWithKing.com  | @BuildsWithKing
+[Twitter/X handle] – https://x.com/BuildsWithKing/  | @BuildsWithKing
 
 Let’s connect and grow in public!
