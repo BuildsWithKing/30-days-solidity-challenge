@@ -2,7 +2,7 @@
 
 ### 🚀 One Smart Contract Every Day – From Zero to Smart Contract Hero
 
-This repository contains my daily smart contract projects as part of a *30-day Solidity coding challenge*.  
+This repository contains my daily smart contract projects as part of my *30-day Solidity coding challenge*.  
 The goal is to *master core Solidity concepts* — including structs, mappings, modifiers, custom errors, access control, and more — by building real smart contracts from scratch *every single day*.
 
 ---
@@ -33,7 +33,7 @@ Day002-QuoteVault/
 
 ### 🛠 Tools Used
 
-- Solidity ^0.8.x
+- Solidity `^0.8.18`
 - Remix IDE & VS Code
 - Git + GitHub (SSH)
 - Foundry (coming soon)
@@ -42,8 +42,8 @@ Day002-QuoteVault/
 
 ### 🧠 Why This Matters
 
-This challenge is about more than just code.  
-It’s about *consistency, **self-discipline, and proving that **mastery comes from daily effort*.
+This challenge is more than just code.  
+It’s about *consistency*, *self-discipline*, and proving that *mastery comes from daily effort*.
 
 I’m not just building smart contracts —  
 I’m building a future I believe in. ⚡
