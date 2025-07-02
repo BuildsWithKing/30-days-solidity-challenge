@@ -19,3 +19,7 @@ A basic smart contract that allows users store their name and age
 ## Tools
 - Written on solidity `^0.8.18`
 - Tested using Remix IDE
+
+## Author
+
+Built by [@BuildsWithKing] (https://github.com/BuildsWithKing) as part of the `30 Days of solidity` challenge.
