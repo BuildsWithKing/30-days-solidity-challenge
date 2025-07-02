@@ -31,7 +31,7 @@ A basic smart contract that allows users to store, view, update, and delete thei
 
 ## 🛠 Tools Used
 
-- **Language**: Solidity ^0.8.18
+- **Language**: Solidity `^0.8.18`
 - **IDE**: [Remix](https://remix.ethereum.org/) & Visual Studio Code
 - **Version Control**: Git + GitHub (SSH)
 - **Testing/Deployment**: Foundry (in later phases)
