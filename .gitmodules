@@ -7,3 +7,6 @@
 [submodule "Day003-DreamVault/lib/forge-std"]
 	path = Day003-DreamVault/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day004-ToDoList/lib/forge-std"]
+	path = Day004-ToDoList/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

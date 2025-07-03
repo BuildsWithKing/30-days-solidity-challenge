@@ -58,12 +58,7 @@ contract DreamVault {
     }
 
     //This function allows only the owner view dreamer dreams
-    function viewDream(address _dreamer)
-        public
-        view
-        onlyOwner
-        returns (string memory title, string memory description, uint256 timestamp)
-    {
+    function viewDream(address _dreamer) public view onlyOwner returns (string memory title, string memory description, uint256 timestamp) {
         Dream memory dream = userDreams[_dreamer];
         return (dream.title, dream.description, dream.addAt);
     }
