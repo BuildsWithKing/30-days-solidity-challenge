@@ -2,7 +2,7 @@
 
 ### 🚀 One Smart Contract Every Day – From Zero to Smart Contract Hero
 
-This repository contains my daily smart contract projects as part of my *30-day Solidity coding challenge*.  
+This repository contains my daily smart contract projects as part of my *30-days Solidity coding challenge*.  
 The goal is to *master core Solidity concepts* — including structs, mappings, modifiers, custom errors, access control, and more — by building real smart contracts from scratch *every single day*.
 
 ---
