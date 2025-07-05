@@ -1,3 +1,5 @@
+![Michealking Banner](https://github.com/user-attachments/assets/e40fada9-bde2-4c65-854a-c0ad3f846622)
+
 # 🔥 30 Days Solidity Challenge
 
 ### 🚀 One Smart Contract Every Day – From Zero to Smart Contract Hero
