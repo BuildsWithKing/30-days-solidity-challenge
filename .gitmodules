@@ -13,3 +13,6 @@
 [submodule "Day005-WhitelistDapp/lib/forge-std"]
 	path = Day005-WhitelistDapp/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day006-SimpleBank/lib/forge-std"]
+	path = Day006-SimpleBank/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
