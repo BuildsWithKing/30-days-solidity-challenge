@@ -93,7 +93,7 @@ contract BasicKYC {
        emit userDeleted(_userAddress);
     }
 
-    // Deletes user their data
+    // Deletes caller's data
     function deleteMyData() public {
         delete usersDetail[msg.sender];
         emit userDeleted(msg.sender);
