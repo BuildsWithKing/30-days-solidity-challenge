@@ -19,3 +19,6 @@
 [submodule "Day007-DonationVaultDapp/lib/forge-std"]
 	path = Day007-DonationVaultDapp/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day008-BasicKYC/lib/forge-std"]
+	path = Day008-BasicKYC/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
