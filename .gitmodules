@@ -22,3 +22,6 @@
 [submodule "Day008-BasicKYC/lib/forge-std"]
 	path = Day008-BasicKYC/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day009-VoterVault/lib/forge-std"]
+	path = Day009-VoterVault/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
