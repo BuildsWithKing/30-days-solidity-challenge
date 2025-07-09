@@ -26,14 +26,14 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 001 | 🧍‍♂ UserStorage | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day001-UserStorage) |
 | 002 | ✍ QuoteVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-QuoteVault) |
 | 003 | 💭 DreamVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day003-DreamVault) |
-| 004 | 📝 TodoList | [View][(https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day004-TodoList) |
-| 005 | ✅ WhiteList | [View](./005%E2%9C%85WhiteList) |
-| 006 | 💰 SimpleBank | [View](./006%F0%9F%92%B0SimpleBank) |
-| 007 | 💖 DonationVault | [View](./007%F0%9F%92%96DonationVault) |
-| 008 | 🛂 BasicKYC | [View](./008%F0%9F%9B%82BasicKYC) |
-| 009 | 🗳 VotingApp | [View](./009%F0%9F%97%B3VotingApp) |
-| 010 | 🔐 OwnershipManager | [View](./010%F0%9F%94%90OwnershipManager) |
-| 011 | 💡 ProjectIdeaStorage | [View](./011%F0%9F%92%A1ProjectIdeaStorage) |
+| 004 | 📝 TodoList | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day004-TodoList) |
+| 005 | ✅ WhiteList | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day005-WhiteList) |
+| 006 | 💰 SimpleBank | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day006-SimpleBank) |
+| 007 | 💖 DonationVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day007-DonationVault) |
+| 008 | 🛂 BasicKYC | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day008-BasicKYC) |
+| 009 | 🗳 VotingApp | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day009-VotingApp) |
+| 010 | 🔐 OwnershipManager | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
+| 011 | 💡 ProjectIdeaStorage | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-ProjectIdeaStorage) |
 
 ### 📂 Folder Structure
 
