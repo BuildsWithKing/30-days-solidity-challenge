@@ -25,3 +25,6 @@
 [submodule "Day009-VoterVault/lib/forge-std"]
 	path = Day009-VoterVault/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day010-OwnershipManager/lib/forge-std"]
+	path = Day010-OwnershipManager/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
