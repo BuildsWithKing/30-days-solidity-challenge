@@ -23,10 +23,10 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 
 | Day | Project Name | Link |
 |-----|--------------|------|
-| 001 | 🧍‍♂ UserStorage | [View](./001%F0%9F%A7%8D%E2%99%82%EF%B8%8FUserStorage) |
-| 002 | ✍ QuoteVault | [View](./002%E2%9C%8D%EF%B8%8FQuoteVault) |
-| 003 | 💭 DreamVault | [View](./003%F0%9F%92%ADDreamVault) |
-| 004 | 📝 TodoList | [View](./004%F0%9F%93%9DTodoList) |
+| 001 | 🧍‍♂ UserStorage | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day001-UserStorage) |
+| 002 | ✍ QuoteVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-QuoteVault) |
+| 003 | 💭 DreamVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day003-DreamVault) |
+| 004 | 📝 TodoList | [View][(https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day004-TodoList) |
 | 005 | ✅ WhiteList | [View](./005%E2%9C%85WhiteList) |
 | 006 | 💰 SimpleBank | [View](./006%F0%9F%92%B0SimpleBank) |
 | 007 | 💖 DonationVault | [View](./007%F0%9F%92%96DonationVault) |
@@ -34,11 +34,6 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 009 | 🗳 VotingApp | [View](./009%F0%9F%97%B3VotingApp) |
 | 010 | 🔐 OwnershipManager | [View](./010%F0%9F%94%90OwnershipManager) |
 | 011 | 💡 ProjectIdeaStorage | [View](./011%F0%9F%92%A1ProjectIdeaStorage) |
-| 012 | 📒 ContactBook | [View](./012%F0%9F%93%92ContactBook) |
-| 013 | 🖼 NFTVault | [View](./013%F0%9F%96%BCNFTVault) |
-| 014 | 🧑‍🤝‍🧑 ReferralSystem | [View](./014%F0%9F%A7%91%E2%80%8D%F0%9F%A4%9D%E2%80%8D%F0%9F%A7%91ReferralSystem) |
-| 015 | 🔒 WalletGuard | [View](./015%F0%9F%94%92WalletGuard) |
----
 
 ### 📂 Folder Structure
 
