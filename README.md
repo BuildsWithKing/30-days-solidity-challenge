@@ -19,6 +19,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | Day 21–30 | 🧪 Foundry Testing & Deployment     | Refactor, test, and deploy 15 contracts  |
 
 ---
+<p center>
 ## 📅 Project Directory (30 Days of Solidity Challenge)
 
 | Day | Project Name | Link |
@@ -35,6 +36,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 010 | 🔐 OwnershipManager | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
 | 011 | 💡 ProjectIdeaStorage | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-ProjectIdeaStorage) |
 
+</p center>
 ### 📂 Folder Structure
 
 Each folder represents a new challenge or skill milestone.  
