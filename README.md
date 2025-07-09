@@ -10,6 +10,9 @@ This repository contains my daily smart contract builds and development tasks as
 The goal is to master core Solidity concepts — including structs, mappings, modifiers, custom errors, access control, testing, and deployment — by building real-world smart contracts *and* leveling up with *Foundry testing and scripting*.
 
 ---
+> “I believe mastery comes through consistency — and I’m here to prove it.”
+— Michealking 👑
+---
 
 ### 📅 Challenge Structure
 
@@ -35,7 +38,10 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 010 | `🔐 OwnershipManager` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
 | 011 | `💡 ProjectIdeaStorage` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-ProjectIdeaStorage) |
 
+---
+🧱 *Progress: 10 / 30 projects completed*
 
+---
 ### 📂 Folder Structure
 
 Each folder represents a new challenge or skill milestone.  
