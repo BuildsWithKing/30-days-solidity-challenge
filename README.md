@@ -19,24 +19,23 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | Day 21–30 | 🧪 Foundry Testing & Deployment     | Refactor, test, and deploy 15 contracts  |
 
 ---
-<p center>
 ## 📅 Project Directory (30 Days of Solidity Challenge)
 
-| Day | Project Name | Link |
+| **Day** | **Project Name** | **Link** |
 |-----|--------------|------|
-| 001 | 🧍‍♂ UserStorage | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day001-UserStorage) |
-| 002 | ✍ QuoteVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-QuoteVault) |
-| 003 | 💭 DreamVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day003-DreamVault) |
-| 004 | 📝 TodoList | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day004-TodoList) |
-| 005 | ✅ WhiteList | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day005-WhiteList) |
-| 006 | 💰 SimpleBank | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day006-SimpleBank) |
-| 007 | 💖 DonationVault | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day007-DonationVault) |
-| 008 | 🛂 BasicKYC | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day008-BasicKYC) |
-| 009 | 🗳 VotingApp | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day009-VotingApp) |
-| 010 | 🔐 OwnershipManager | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
-| 011 | 💡 ProjectIdeaStorage | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-ProjectIdeaStorage) |
+| 001 | `🧍‍♂ UserStorage` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day001-UserStorage) |
+| 002 | `✍ QuoteVault` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-QuoteVault) |
+| 003 | `💭 DreamVault` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day003-DreamVault) |
+| 004 | `📝 TodoList` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day004-TodoList) |
+| 005 | `✅ WhiteList` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day005-WhiteList) |
+| 006 | `💰 SimpleBank` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day006-SimpleBank) |
+| 007 | `💖 DonationVault` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day007-DonationVault) |
+| 008 | `🛂 BasicKYC` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day008-BasicKYC) |
+| 009 | `🗳 VotingApp` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day009-VotingApp) |
+| 010 | `🔐 OwnershipManager` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
+| 011 | `💡 ProjectIdeaStorage` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day002-ProjectIdeaStorage) |
 
-</p center>
+
 ### 📂 Folder Structure
 
 Each folder represents a new challenge or skill milestone.  
@@ -86,6 +85,7 @@ I'm building **a dev portfolio**, **a teaching asset**, and **a life of purpose*
 🧠 GitHub Profile – https://github.com/BuildsWithKing  
 
 Let’s connect and grow in public!
-
-
+---
+> “I believe mastery comes through consistency — and I’m here to prove it.”
+— Michealking 👑
 ---
