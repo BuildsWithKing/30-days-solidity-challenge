@@ -19,6 +19,26 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | Day 21–30 | 🧪 Foundry Testing & Deployment     | Refactor, test, and deploy 15 contracts  |
 
 ---
+## 📅 Project Directory (30 Days of Solidity Challenge)
+
+| Day | Project Name | Link |
+|-----|--------------|------|
+| 001 | 🧍‍♂ UserStorage | [View](./001🧍‍♂UserStorage) |
+| 002 | ✍ QuoteVault | [View](./002✍QuoteVault) |
+| 003 | 💭 DreamVault | [View](./003💭DreamVault) |
+| 004 | 📝 TodoList | [View](./004📝TodoList) |
+| 005 | ✅ WhiteList | [View](./005✅WhiteList) |
+| 006 | 💰 SimpleBank | [View](./006💰SimpleBank) |
+| 007 | 💖 DonationVault | [View](./007💖DonationVault) |
+| 008 | 🛂 BasicKYC | [View](./008🛂BasicKYC) |
+| 009 | 🗳 VotingApp | [View](./009🗳VotingApp) |
+| 010 | 🔐 OwnershipManager | [View](./010🔐OwnershipManager) |
+| 011 | 💡 ProjectIdeaStorage | [View](./011💡ProjectIdeaStorage) |
+| 012 | 📒 ContactBook | [View](./012📒ContactBook) |
+| 013 | 🖼 NFTVault | [View](./013🖼NFTVault) |
+| 014 | 🧑‍🤝‍🧑 ReferralSystem | [View](./014🧑‍🤝‍🧑ReferralSystem) |
+| 015 | 🔒 WalletGuard | [View](./015🔒WalletGuard) |
+---
 
 ### 📂 Folder Structure
 
