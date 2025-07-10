@@ -36,7 +36,9 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 008 | `🛂 BasicKYC` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day008-BasicKYC) |
 | 009 | `🗳 VotingApp` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day009-VotingApp) |
 | 010 | `🔐 OwnershipManager` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
-| 011 | `💡 ProjectIdeaStorage` | *Coming soon...* |
+| 011 | `💡 ProjectIdeaStorage` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day011-ProjectIdeaStorage) |
+| 012 | `📕 ContactBook` | *Coming soon...*  |
+
 
 ---
 🧱 *Progress: 10 / 30 projects completed*
