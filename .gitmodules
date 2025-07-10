@@ -28,3 +28,6 @@
 [submodule "Day010-OwnershipManager/lib/forge-std"]
 	path = Day010-OwnershipManager/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day011-ProjectIdeaStorage/lib/forge-std"]
+	path = Day011-ProjectIdeaStorage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
