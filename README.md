@@ -41,7 +41,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 
 
 ---
-🧱 *Progress: 10 / 30 projects completed*
+🧱 *Progress: 11 / 30 projects completed*
 
 
 ---
