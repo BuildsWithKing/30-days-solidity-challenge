@@ -37,11 +37,12 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 009 | `🗳 VotingApp` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day009-VotingApp) |
 | 010 | `🔐 OwnershipManager` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day010-OwnershipManager) |
 | 011 | `💡 ProjectIdeaStorage` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day011-ProjectIdeaStorage) |
-| 012 | `📕 ContactBook` | *Coming soon...*  |
+| 012 | `📕 ContactBook` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day012-ContactBook) |
+| 013 | `🧾 NFTVault`  | *Coming soon...*   |
 
 
 ---
-🧱 *Progress: 11 / 30 projects completed*
+🧱 *Progress: 12 / 30 projects completed*
 
 
 ---
