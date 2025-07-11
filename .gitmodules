@@ -31,3 +31,9 @@
 [submodule "Day011-ProjectIdeaStorage/lib/forge-std"]
 	path = Day011-ProjectIdeaStorage/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day012-ContactBook/lib/forge-std"]
+	path = Day012-ContactBook/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Day013-NFTVault/lib/forge-std"]
+	path = Day013-NFTVault/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
