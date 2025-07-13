@@ -37,3 +37,6 @@
 [submodule "Day013-NFTVault/lib/forge-std"]
 	path = Day013-NFTVault/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day014-ReferralSystem/lib/forge-std"]
+	path = Day014-ReferralSystem/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
