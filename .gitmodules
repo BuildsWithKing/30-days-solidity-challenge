@@ -40,3 +40,6 @@
 [submodule "Day014-ReferralSystem/lib/forge-std"]
 	path = Day014-ReferralSystem/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day015-WalletGuard/lib/forge-std"]
+	path = Day015-WalletGuard/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
