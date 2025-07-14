@@ -40,7 +40,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 012 | `📕 ContactBook` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day012-ContactBook) |
 | 013 | `🧾 NFTVault`  | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day013-NFTVault)   |
 | 014 | `🧑‍🤝‍🧑 ReferralSystem` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day014-ReferralSystem) |
-| 015 | `🧱 WalletGuard` | *Coming soon...* |
+| 015 | `🔐 WalletGuard` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day015-WalletGuard) |
 | 016 | `🗳 DecentralizedPoll` | *Coming soon...* |
 
 ---
