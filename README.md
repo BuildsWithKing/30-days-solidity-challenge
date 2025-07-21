@@ -44,7 +44,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 016 | `🗳 DecentralizedPoll` | *Coming soon...* |
 
 ---
-🧱 *Progress: 14 / 20 projects completed*
+🧱 *Progress: 15 / 20 projects completed*
 
 
 ---
