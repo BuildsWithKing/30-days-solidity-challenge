@@ -46,6 +46,3 @@
 [submodule "Day001-UserStorage/Advanced-UserStorage/lib/forge-std"]
 	path = Day001-UserStorage/Advanced-UserStorage/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
-[submodule "DecentralizedPoll/lib/forge-std"]
-	path = DecentralizedPoll/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
