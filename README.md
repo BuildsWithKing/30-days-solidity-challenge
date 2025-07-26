@@ -45,7 +45,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 017 | `📧EmailRegistry` | *Coming Soon...*|
 
 ---
-🧱 *Progress: 16 / 20 projects completed*
+🧱 *Progress: 17 / 20 projects completed*
 
 
 ---
