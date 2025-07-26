@@ -42,7 +42,8 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 014 | `🧑‍🤝‍🧑 ReferralSystem` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day014-ReferralSystem) |
 | 015 | `🔐 WalletGuard` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day015-WalletGuard) |
 | 016 | `🗳 DecentralizedPoll` | [View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day016-DecentralizedPoll) |
-| 017 | `📧EmailRegistry` | *Coming Soon...*|
+| 017 | `📧EmailRegistry` |[View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day017-EmailRegistry) |
+| 018 | `👨‍🎓StudentRecordSystem` | *Coming Soon...*|
 
 ---
 🧱 *Progress: 17 / 20 projects completed*
