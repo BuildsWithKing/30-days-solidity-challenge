@@ -91,7 +91,31 @@ A decentralized, permissioned student management system that allows educational 
 
 ---
 
-🚀 *Why This Matters*
+## 📁 Project Structure
+
+This contract was structured modularly for clarity and maintainability. Below is a breakdown of each file's purpose:
+
+```
+src/
+├── StudentRecordSystem.sol        # Main contract integrating all features and modules
+├── AdminManager.sol               # Manages administrative staff roles and permissions
+├── GradesManager.sol              # Handles student performance recording and grading logic
+├── StudentRegistry.sol            # Handles student registration and ID tracking
+├── AcademicRecordManager.sol      # Manages academic data: scores. 
+├── Utils.sol                      # Handles contract state control, ownership logic, ETH withdrawal, receive, and fallback
+│
+├── libraries/
+│   ├── StudentLib.sol             # Utility library for managing student data
+│   ├── StudentTypes.sol           # Enum definitions: Gender, Status, Grade
+│   └── StudentUtils.sol           # Converts student enums (e.g., status) to strings
+│
+└── structs/
+    └── StudentStructs.sol         # Shared struct definitions for student information and academic records
+
+```
+---
+
+## 🚀 *Why This Matters*
 
 In Web3 education applications, student data needs to be decentralized, secure, and immutable. This project demonstrates the key components of:
 
