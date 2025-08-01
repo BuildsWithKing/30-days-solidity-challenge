@@ -86,7 +86,7 @@ A decentralized, permissioned student management system that allows educational 
 - *Utils.sol*: Manages contract's state, ownershiptransfer, ownershiprenounce,ETH withdrawal, receive and fallback. 
 - *StudentLib.sol*: Library for student data management.
 - *StudentTypes.sol*: Defines (Enum) student's gender, status and grades.  
-- *StudentUtlis.sol*: Converts student's status (enum) to string.
+- *StudentUtils.sol*: Converts student's status (enum) to string.
 - *StudentStructs.sol*: Groups student's info and record. 
 
 ---
