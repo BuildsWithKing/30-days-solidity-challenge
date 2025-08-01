@@ -49,3 +49,6 @@
 [submodule "Day017-EmailRegistry/lib/forge-std"]
 	path = Day017-EmailRegistry/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day018-StudentRecordSystem/lib/forge-std"]
+	path = Day018-StudentRecordSystem/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
