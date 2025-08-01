@@ -214,6 +214,7 @@ MIT License — Feel free to use, modify, and learn from.
 Built with 🔥 by [@BuildsWithKing](https://github.com/BuildsWithKing)  
 Part of the 30 Days of Solidity Challenge.
 
+---
 
 🙏 Please give credit if this inspired your learning journey.
 
