@@ -1,4 +1,4 @@
-# 🛒 SimpleAuction Smart Contract
+# 🛒 SimpleAuction Smart Contract (Day 19 – 30 Days of Solidity)
 
 A fully modular and production-ready smart contract that allows users to list items, bid with ETH, and manage auction lifecycles. Built entirely from scratch in Solidity by [@BuildsWithKing](https://github.com/BuildsWithKing).
 
