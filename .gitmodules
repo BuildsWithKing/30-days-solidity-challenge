@@ -52,3 +52,6 @@
 [submodule "Day018-StudentRecordSystem/lib/forge-std"]
 	path = Day018-StudentRecordSystem/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day019-SimpleAuction/lib/forge-std"]
+	path = Day019-SimpleAuction/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
