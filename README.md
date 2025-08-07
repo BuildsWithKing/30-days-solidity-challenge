@@ -48,10 +48,10 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 | 017 | `📧EmailRegistry` |[View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day017-EmailRegistry) |
 | 018 | `👨‍🎓StudentRecordSystem` |[View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day018-StudentRecordSystem) |
 | 019 | `🛒 SimpleAuction` |[View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day019-SimpleAuction) |
-| 020 | `⛽ GasSaverApp`   | *Coming Soon..* |
+| 020 | `⛽ GasSaverApp`   |[View](https://github.com/BuildsWithKing/30-days-solidity-challenge/tree/main/Day020-GasSaverApp) |
 
 ---
-🧱 *Progress: 19 / 20 projects completed*
+🧱 *Progress: 20 / 20 projects completed*
 
 
 ---
