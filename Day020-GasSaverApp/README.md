@@ -36,7 +36,7 @@ A gas-optimized smart contract that allows users to register, update, view, and 
 |------------------------------|------------------------------------------|
 | OptimizedGasSaver.sol      | Main gas-optimized smart contract logic  |
 | UnoptimizedGasSaver.sol    | A less efficient version (for comparison)|
-| OptimizedGasSaver.t.sol    | Full Foundry test suite (96.77% coverage)|
+| OptimizedGasSaverTest.t.sol    | Full Foundry test suite (96.77% coverage)|
 
 ---
 
@@ -104,7 +104,8 @@ Feel free to fork and contribute.
 
 ## 👑 Built by
 
-MichealKing (@BuildsWithKing)
+[MichealKing (BuildsWithKing)](https://github.com/BuildsWithKing)
+
 Solidity Developer | Builder | #30DaysOfSolidityChallenge
 
 
