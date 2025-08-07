@@ -55,3 +55,6 @@
 [submodule "Day019-SimpleAuction/lib/forge-std"]
 	path = Day019-SimpleAuction/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Day020-GasSaverApp/lib/forge-std"]
+	path = Day020-GasSaverApp/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
