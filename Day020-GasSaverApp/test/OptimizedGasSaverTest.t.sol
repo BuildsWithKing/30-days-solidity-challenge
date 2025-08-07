@@ -7,7 +7,10 @@
 
 pragma solidity ^0.8.18;
 
+/// @notice Imports Test from forge standard library.
 import{Test} from "forge-std/Test.sol";
+
+/// @notice Imports optimizedGasSaver file.
 import{OptimizedGasSaver} from "../src/OptimizedGasSaver.sol";
 
 contract OptimizedGasSaverTest is Test {
@@ -23,7 +26,7 @@ contract OptimizedGasSaverTest is Test {
     /// @notice user two's address.
     address user2 = address(0x1);
 
-    /// @notice This is the setUp function that runs every other test. 
+    /// @notice This is the setUp function that runs before each test. 
     function setUp() public {
 
         // Create new instance of OptimizedGasSaver.
@@ -151,6 +154,7 @@ contract OptimizedGasSaverTest is Test {
 
     }
 
+   /// @notice Test to ensure users can't access other user's data.
     function testUsersCantAccessOtherUsersData() public {
         //Register User1. 
         vm.prank(user1); 
@@ -170,4 +174,5 @@ contract OptimizedGasSaverTest is Test {
         // Assert owner.
         assertEq(contractOwner, owner);
     }
+
 }
