@@ -82,7 +82,7 @@ Day006-SimpleBank/ ├── SimpleBank.sol └── README.md
 - Solidity `^0.8.18`
 - Remix IDE + VS Code
 - Git + GitHub (SSH)
-- *Foundry (Phase 2)*
+- *[Foundry (Phase 2)](https://github.com/BuildsWithKing/21-30-foundry-test-deploy)*
 
 ---
 
