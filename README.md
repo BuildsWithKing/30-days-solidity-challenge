@@ -21,8 +21,8 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 
 | Phase | Focus Area                             | Description                                  |
 |-------|-----------------------------------------|----------------------------------------------|
-| Day 1–20 | 🛠 Smart Contract Builds             | 20 beginner-to-intermediate projects         |
-| Day 21–30 | 🧪 Foundry Testing & Deployment     | Refactor, test, and deploy 15 contracts  |
+| [Day 1–20](https://github.com/BuildsWithKing/30-days-solidity-challenge) | 🛠 Smart Contract Builds             | 20 beginner-to-intermediate projects         |
+| [Day 21–30](https://github.com/BuildsWithKing/21-30-foundry-test-deploy) | 🧪 Foundry Testing & Deployment     | Refactor, test, and deploy 15 contracts  |
 
 ---
 ## 📅 Project Directory (30 Days of Solidity Challenge)
@@ -53,6 +53,7 @@ The goal is to master core Solidity concepts — including structs, mappings, mo
 ---
 🧱 *Progress: 20 / 20 projects completed*
 
+[Day 21–30: Solidity Mastery Challenge — Refactored, Tested, Deployed](https://github.com/BuildsWithKing/21-30-foundry-test-deploy)
 
 ---
 ### 📂 Folder Structure
@@ -63,8 +64,6 @@ Follow along as I grow into a solid Web3 backend (smart contract) developer.
 Day001-UserStorage/ ├── UserStorage.sol └── README.md
 
 Day006-SimpleBank/ ├── SimpleBank.sol └── README.md
-
-(Foundry test repo will be separate)
 
 ---
 
