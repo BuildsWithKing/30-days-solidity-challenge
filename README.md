@@ -10,16 +10,19 @@
 
 ### 🚀 One Smart Contract or Dev Task Every Day – From Zero to Smart Contract Hero
 
-This repository contains my daily smart contract builds and development tasks as part of my 30-days Solidity mastery challenge.  
-The goal is to master core Solidity concepts — including structs, mappings, modifiers, custom errors, access control, testing, and deployment — by building real-world smart contracts *and* leveling up with *Foundry testing and scripting*.
+This repository is one of the best beginner-friendly Solidity learning resources on GitHub.  
+It contains 20 real-world smart contract projects featuring Foundry testing, access control, and deployment practice.  
+
+Whether you're a beginner learning Solidity or an intermediate developer sharpening your Foundry testing skills,  
+this repo provides hands-on examples, explanations, and code you can clone, test, and extend.
 
 ---
 > 🟢 *New to Solidity?*  
 > 👉 [Start Here – Beginner Guide](https://github.com/BuildsWithKing/start-here-solidity)
 
-> ⚠ Note: This repository is part of my personal 30 Days Solidity Challenge.  
-> All code here represents daily progress and learning — not open for pull requests.  
-> Feedback or suggestions are welcome via GitHub Issues or [DMs](https://www.linkedin.com/in/michealking-buildswithking?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+> ⚠ Note: This repository documents my personal 30 Days Solidity Challenge.
+> The code reflects daily learning progress and is not open for pull requests.
+> However, feedback or learning discussions are always welcome via Issues or [DMs](https://www.linkedin.com/in/michealking-buildswithking?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ---
 > “I believe mastery comes through consistency — and I’m here to prove it.”
