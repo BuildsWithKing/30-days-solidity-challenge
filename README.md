@@ -1,3 +1,7 @@
+![Solidity](https://img.shields.io/badge/Solidity-%5E0.8.18-blue)
+![Remix](https://img.shields.io/badge/Tested%20with-Remix-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ---
 ![Michealking Banner](https://github.com/user-attachments/assets/e40fada9-bde2-4c65-854a-c0ad3f846622)
 
@@ -6,12 +10,17 @@
 
 ### 🚀 One Smart Contract or Dev Task Every Day – From Zero to Smart Contract Hero
 
-This repository contains my daily smart contract builds and development tasks as part of my 30-day Solidity mastery challenge.  
+This repository contains my daily smart contract builds and development tasks as part of my 30-days Solidity mastery challenge.  
 The goal is to master core Solidity concepts — including structs, mappings, modifiers, custom errors, access control, testing, and deployment — by building real-world smart contracts *and* leveling up with *Foundry testing and scripting*.
 
 ---
 > 🟢 *New to Solidity?*  
 > 👉 [Start Here – Beginner Guide](https://github.com/BuildsWithKing/start-here-solidity)
+
+> ⚠ Note: This repository is part of my personal 30 Days Solidity Challenge.  
+> All code here represents daily progress and learning — not open for pull requests.  
+> Feedback or suggestions are welcome via GitHub Issues or [DMs](https://www.linkedin.com/in/michealking-buildswithking?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+
 ---
 > “I believe mastery comes through consistency — and I’m here to prove it.”
 — Michealking 👑
@@ -86,6 +95,14 @@ Day006-SimpleBank/ ├── SimpleBank.sol └── README.md
 
 ---
 
+### How to Run Locally
+
+```
+git clone https://github.com/BuildsWithKing/30-days-solidity-challenge.git
+cd 30-days-solidity-challenge
+```
+---
+
 ### 🧠 Why This Matters
 
 This challenge is more than just code.  
@@ -98,15 +115,18 @@ I'm building **a dev portfolio**, **a teaching asset**, and **a life of purpose*
 
 ### 💬 Want to Follow My Journey?
 
-📡 Twitter/X – [@BuildsWithKing](https://x.com/BuildsWithKing/)  
-🌍 Website – https://buildswithking.vercel.app  
+📡 Twitter/X – [@BuildsWithKing](https://x.com/BuildsWithKing/) 
+
+💬 LinkendIn – [Michealking _BuildsWithKing](https://www.linkedin.com/in/michealking-buildswithking?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+🌍 Website – https://buildswithking.vercel.app 
+
 🧠 GitHub Profile – https://github.com/BuildsWithKing  
 
 Let’s connect and grow in public!
----
-> “I believe mastery comes through consistency — and I’m here to prove it.”
-— Michealking 👑
+
 ---
 ## 🙏 Cloned This Repo?
-Kindly give credit or leave a star ⭐. Let's grow together.
+
+Kindly give credit or leave a star ⭐ Let's grow together.
 ---
